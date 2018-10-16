@@ -7,7 +7,7 @@ author: zzm                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
-slogan:  web                                   # used in site header, beside title
+slogan:  web                                 # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
@@ -20,7 +20,7 @@ nav_menu:
   - name: 首页
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
+  - name: 目录
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
