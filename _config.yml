@@ -3,7 +3,7 @@
 #######################
 
 title: zzm616                        # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+author: zzm                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
@@ -17,7 +17,7 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  - name: Posts
+  - name: 首页
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: Projects
